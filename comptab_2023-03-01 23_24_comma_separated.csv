@@ -1,0 +1,355 @@
+Year,App.,Taxon,Class,Order,Family,Genus,Importer,Exporter,Origin,Importer reported quantity,Exporter reported quantity,Term,Unit,Purpose,Source
+2022,I,Sclerophrys channingi,Amphibia,Anura,Bufonidae,Sclerophrys,CZ,CD,,,5,specimens,kg,S,W
+2022,I,Eretmochelys imbricata,Reptilia,Testudines,Cheloniidae,Eretmochelys,ES,PA,,,85,derivatives,,P,W
+2022,I,Crocodylidae spp.,Reptilia,Crocodylia,Crocodylidae,,CZ,CD,,,3,specimens,kg,S,W
+2022,I,Crocodylus spp.,Reptilia,Crocodylia,Crocodylidae,Crocodylus,CZ,CD,,,2,specimens,kg,S,W
+2022,I,Crocodylus acutus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,ES,CO,,,100,skins,,T,D
+2022,I,Crocodylus acutus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MX,CO,,,1000,skins,,T,D
+2022,I,Osteolaemus spp.,Reptilia,Crocodylia,Crocodylidae,Osteolaemus,CZ,CD,,,9,specimens,kg,S,W
+2022,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,TH,LA,,,1904,specimens,g,S,C
+2022,I,Elephas maximus,Mammalia,Proboscidea,Elephantidae,Elephas,TH,LA,,,1904,specimens,ml,S,C
+2022,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,IQ,AT,,4,,live,,S,C
+2022,I,Falco peregrinus,Aves,Falconiformes,Falconidae,Falco,IQ,DE,,15,,live,,B,C
+2022,I,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IQ,CZ,,1,,live,,T,C
+2022,I,Panthera onca,Mammalia,Carnivora,Felidae,Panthera,IQ,ZA,,2,,live,,Z,C
+2022,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,IQ,CZ,,6,,live,,Z,C
+2022,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,IQ,DE,,6,,live,,Z,C
+2022,I,Panthera pardus,Mammalia,Carnivora,Felidae,Panthera,IQ,EG,,8,,live,,Z,C
+2022,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,IQ,CZ,,3,,live,,Z,C
+2022,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,IQ,EG,,2,,live,,Z,C
+2022,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,IQ,ZA,,6,,live,,P,C
+2022,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,IQ,ZA,,7,,live,,Z,C
+2022,I,Panthera tigris,Mammalia,Carnivora,Felidae,Panthera,MY,LA,,,311,specimens,Number of specimens,S,C
+2022,I,Pan troglodytes,Mammalia,Primates,Hominidae,Pan,IQ,DE,,3,,live,,Z,C
+2022,I,Scleropages formosus,Actinopteri,Osteoglossiformes,Osteoglossidae,Scleropages,JP,MY,,,50,live,,T,D
+2022,I,Amazona auropalliata,Aves,Psittaciformes,Psittacidae,Amazona,PA,US,,1,,live,,P,I
+2022,I,Ara macao,Aves,Psittaciformes,Psittacidae,Ara,IQ,ZA,,2,,live,,B,C
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,CH,ME,,,1,live,Number of specimens,P,C
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,CO,US,,1,,live,,P,F
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,GB,IQ,,,1,live,,P,C
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,IQ,GR,,1,,live,,P,C
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,ME,ZA,,1,,live,Number of specimens,P,D
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,PA,DE,CD,6,,live,,P,U
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,PA,US,,1,,live,,P,I
+2022,I,Psittacus erithacus,Aves,Psittaciformes,Psittacidae,Psittacus,TR,IQ,,,2,live,,P,C
+2022,II,Accipiter gentilis,Aves,Falconiformes,Accipitridae,Accipiter,ME,HR,,1,,live,Number of specimens,B,D
+2022,II,Gypohierax angolensis,Aves,Falconiformes,Accipitridae,Gypohierax,BD,CD,,,30,live,Number of specimens,T,W
+2022,II,Gypohierax angolensis,Aves,Falconiformes,Accipitridae,Gypohierax,CN,CD,,,3,skins,Number of specimens,E,W
+2022,II,Gyps rueppellii,Aves,Falconiformes,Accipitridae,Gyps,BD,CD,,,25,live,Number of specimens,T,W
+2022,II,Necrosyrtes monachus,Aves,Falconiformes,Accipitridae,Necrosyrtes,BD,CD,,,10,live,Number of specimens,T,W
+2022,II,Spizaetus africanus,Aves,Falconiformes,Accipitridae,Spizaetus,TH,CD,,,2,live,Number of specimens,T,W
+2022,II,Stephanoaetus coronatus,Aves,Falconiformes,Accipitridae,Stephanoaetus,TH,CD,,,4,live,Number of specimens,T,W
+2022,II,Acipenser baerii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,RU,AM,,,200,bodies,kg,T,C
+2022,II,Acipenser gueldenstaedtii,Actinopteri,Acipenseriformes,Acipenseridae,Acipenser,ME,DE,CN,10,,caviar,kg,T,C
+2022,II,Huso dauricus x acipenser schrenckii,Actinopteri,Acipenseriformes,Acipenseridae,Huso,ME,DE,CN,110,,caviar,Number of specimens,T,C
+2022,II,Huso dauricus x acipenser schrenckii,Actinopteri,Acipenseriformes,Acipenseridae,Huso,MO,FR,CN,3,,caviar,kg,T,C
+2022,II,Agaricia fragilis,Anthozoa,Scleractinia,Agariciidae,Agaricia,XX,PA,,,10,derivatives,,S,W
+2022,II,Agaricia humilis,Anthozoa,Scleractinia,Agariciidae,Agaricia,XX,PA,,,10,derivatives,,S,W
+2022,II,Agaricia tenuifolia,Anthozoa,Scleractinia,Agariciidae,Agaricia,XX,PA,,,306,raw corals,,S,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,CZ,ME,US,,4,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,FI,CH,US,1,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,FI,NO,US,6,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,IN,AE,US,48,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,IN,CH,US,100,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,IN,IE,US,8,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,IN,IT,US,1,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,IN,SG,US,12,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,CH,US,19,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,FR,US,69,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,SG,US,3,,leather products (small),Number of specimens,T,C
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,MO,SG,US,3,,leather products (small),Number of specimens,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,PA,CH,US,34,,leather products (small),,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,PA,DE,US,6,,leather products (small),,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,PA,FR,US,2,,leather products (small),,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,PA,US,US,13,,leather products (small),,T,W
+2022,II,Alligator mississippiensis,Reptilia,Crocodylia,Alligatoridae,Alligator,US,PA,US,,5,leather products (small),,T,W
+2022,II,Caiman crocodilus crocodilus,Reptilia,Crocodylia,Alligatoridae,Caiman,IN,CH,VE,76,,leather products (small),Number of specimens,T,W
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,AR,CO,,,2500,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,CH,PA,,,19,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,DE,CO,,,3913,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,DE,CO,,,1518,tails,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,GB,CO,,,16,leather products (small),,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,IT,CO,,,300,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,KR,CO,,,300,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MX,CO,,,77248,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MX,CO,,,200,skin pieces,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,MX,PA,,,3000,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,QA,CO,,,27,leather products (small),,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,US,CO,CO,,228,leather products (small),,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,US,CO,,,168,leather products (small),,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,US,CO,,,1000,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,VN,CO,,,2060,skins,,T,C
+2022,II,Caiman crocodilus fuscus,Reptilia,Crocodylia,Alligatoridae,Caiman,XX,CO,,,6875,skins,,T,C
+2022,II,Caiman crocodilus yacare,Reptilia,Crocodylia,Alligatoridae,Caiman,IT,PA,BO,,22,leather products (small),,T,W
+2022,II,Caiman crocodilus yacare,Reptilia,Crocodylia,Alligatoridae,Caiman,MO,IT,BO,6,,leather products (small),Number of specimens,T,W
+2022,II,Caiman crocodilus yacare,Reptilia,Crocodylia,Alligatoridae,Caiman,PA,IT,BO,32,,leather products (small),,T,W
+2022,II,Ambystoma mexicanum,Amphibia,Caudata,Ambystomatidae,Ambystoma,PA,US,,10,,live,,T,C
+2022,II,Allobates femoralis,Amphibia,Anura,Aromobatidae,Allobates,US,CO,,,5,specimens,,S,W
+2022,II,Stephanocoenia intersepta,Anthozoa,Scleractinia,Astrocoeniidae,Stephanocoenia,XX,PA,,,10,derivatives,,S,W
+2022,II,Balaeniceps rex,Aves,Ciconiiformes,Balaenicipitidae,Balaeniceps,BD,CD,,,1,live,Number of specimens,E,W
+2022,II,Balaeniceps rex,Aves,Ciconiiformes,Balaenicipitidae,Balaeniceps,CN,CD,,,1,skins,Number of specimens,E,W
+2022,II,Boa constrictor,Reptilia,Serpentes,Boidae,Boa,US,CO,,,1000,live,,T,C
+2022,II,Calabaria reinhardtii,Reptilia,Serpentes,Boidae,Calabaria,BE,CD,,,27,specimens,kg,S,W
+2022,II,Calabaria reinhardtii,Reptilia,Serpentes,Boidae,Calabaria,CZ,CD,,,8,specimens,kg,S,W
+2022,II,Eunectes notaeus,Reptilia,Serpentes,Boidae,Eunectes,IN,CH,AR,322,,leather products (small),Number of specimens,T,W
+2022,II,Cephalophus dorsalis,Mammalia,Artiodactyla,Bovidae,Cephalophus,CN,CD,,,3,skins,Number of specimens,T,W
+2022,II,Cephalophus zebra,Mammalia,Artiodactyla,Bovidae,Cephalophus,IQ,ZA,,20,,live,,Z,C
+2022,II,Philantomba monticola,Mammalia,Artiodactyla,Bovidae,Philantomba,BE,CD,,,6,specimens,kg,S,W
+2022,II,Catalaphyllia jardinei,Anthozoa,Scleractinia,Caryophylliidae,Catalaphyllia,PA,US,ID,10,,live,,T,W
+2022,II,Callithrix jacchus,Mammalia,Primates,Cebidae,Callithrix,IQ,LB,,15,,live,,T,C
+2022,II,Allenopithecus nigroviridis,Mammalia,Primates,Cercopithecidae,Allenopithecus,BE,CD,,,2,specimens,kg,S,W
+2022,II,Allochrocebus lhoesti,Mammalia,Primates,Cercopithecidae,Allochrocebus,MY,CD,,,9,live,Number of specimens,T,W
+2022,II,Allochrocebus lhoesti,Mammalia,Primates,Cercopithecidae,Allochrocebus,TH,CD,,,5,live,Number of specimens,T,W
+2022,II,Cercocebus chrysogaster,Mammalia,Primates,Cercopithecidae,Cercocebus,CN,CD,,,3,skins,Number of specimens,T,W
+2022,II,Cercocebus chrysogaster,Mammalia,Primates,Cercopithecidae,Cercocebus,TH,CD,,,10,live,Number of specimens,T,W
+2022,II,Cercopithecus cephus,Mammalia,Primates,Cercopithecidae,Cercopithecus,BE,CD,,,8,specimens,kg,S,W
+2022,II,Cercopithecus cephus,Mammalia,Primates,Cercopithecidae,Cercopithecus,TH,CD,,,30,live,Number of specimens,T,W
+2022,II,Cercopithecus dryas,Mammalia,Primates,Cercopithecidae,Cercopithecus,BE,CD,,,2,specimens,kg,S,W
+2022,II,Cercopithecus hamlyni,Mammalia,Primates,Cercopithecidae,Cercopithecus,TH,CD,,,10,live,Number of specimens,T,W
+2022,II,Cercopithecus mitis,Mammalia,Primates,Cercopithecidae,Cercopithecus,BE,CD,,,2,specimens,kg,S,W
+2022,II,Cercopithecus neglectus,Mammalia,Primates,Cercopithecidae,Cercopithecus,AE,CD,,,10,live,Number of specimens,T,W
+2022,II,Cercopithecus neglectus,Mammalia,Primates,Cercopithecidae,Cercopithecus,CN,CD,,,1,skins,Number of specimens,E,W
+2022,II,Cercopithecus neglectus,Mammalia,Primates,Cercopithecidae,Cercopithecus,IQ,CD,,,10,live,Number of specimens,T,W
+2022,II,Cercopithecus neglectus,Mammalia,Primates,Cercopithecidae,Cercopithecus,MY,CD,,,10,live,Number of specimens,T,W
+2022,II,Cercopithecus neglectus,Mammalia,Primates,Cercopithecidae,Cercopithecus,TH,CD,,,5,live,Number of specimens,T,W
+2022,II,Cercopithecus nictitans,Mammalia,Primates,Cercopithecidae,Cercopithecus,AE,CD,,,10,live,Number of specimens,T,W
+2022,II,Cercopithecus wolfi,Mammalia,Primates,Cercopithecidae,Cercopithecus,AE,CD,,,6,live,Number of specimens,T,W
+2022,II,Cercopithecus wolfi,Mammalia,Primates,Cercopithecidae,Cercopithecus,BE,CD,,,4,specimens,kg,S,W
+2022,II,Cercopithecus wolfi,Mammalia,Primates,Cercopithecidae,Cercopithecus,MY,CD,,,6,live,Number of specimens,T,W
+2022,II,Cercopithecus wolfi,Mammalia,Primates,Cercopithecidae,Cercopithecus,TH,CD,,,30,live,Number of specimens,T,W
+2022,II,Chlorocebus spp.,Mammalia,Primates,Cercopithecidae,Chlorocebus,IQ,LB,,35,,live,,T,C
+2022,II,Colobus guereza,Mammalia,Primates,Cercopithecidae,Colobus,TH,CD,,,115,live,Number of specimens,T,W
+2022,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,AE,CD,,,10,live,Number of specimens,T,W
+2022,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,CN,CD,,,4,skins,Number of specimens,T,W
+2022,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,IQ,CD,,,10,live,Number of specimens,T,W
+2022,II,Lophocebus aterrimus,Mammalia,Primates,Cercopithecidae,Lophocebus,TH,CD,,,15,live,Number of specimens,T,W
+2022,II,Miopithecus talapoin,Mammalia,Primates,Cercopithecidae,Miopithecus,AE,CD,,,20,live,Number of specimens,T,W
+2022,II,Papio anubis,Mammalia,Primates,Cercopithecidae,Papio,CN,CD,,,2,skins,Number of specimens,T,W
+2022,II,Papio hamadryas,Mammalia,Primates,Cercopithecidae,Papio,IQ,LB,,40,,live,,T,C
+2022,II,Chamaeleo spp.,Reptilia,Sauria,Chamaeleonidae,Chamaeleo,CZ,CD,,,5,specimens,kg,S,W
+2022,II,Rhampholeon spp.,Reptilia,Sauria,Chamaeleonidae,Rhampholeon,CZ,CD,,,3,specimens,kg,S,W
+2022,II,Rhampholeon boulengeri,Reptilia,Sauria,Chamaeleonidae,Rhampholeon,US,CD,,,1000,live,Number of specimens,T,W
+2022,II,Trioceros spp.,Reptilia,Sauria,Chamaeleonidae,Trioceros,CZ,CD,,,14,specimens,kg,S,W
+2022,II,Trioceros johnstoni,Reptilia,Sauria,Chamaeleonidae,Trioceros,JP,CD,,,120,live,Number of specimens,T,W
+2022,II,Trioceros johnstoni,Reptilia,Sauria,Chamaeleonidae,Trioceros,NL,CD,,,200,live,Number of specimens,T,W
+2022,II,Cordylus tropidosternum,Reptilia,Sauria,Cordylidae,Cordylus,DE,CD,,,200,live,Number of specimens,T,W
+2022,II,Cordylus tropidosternum,Reptilia,Sauria,Cordylidae,Cordylus,ID,CD,,,200,live,Number of specimens,T,W
+2022,II,Cordylus tropidosternum,Reptilia,Sauria,Cordylidae,Cordylus,JP,CD,,,350,live,Number of specimens,T,W
+2022,II,Cordylus tropidosternum,Reptilia,Sauria,Cordylidae,Cordylus,KR,CD,,,80,live,Number of specimens,T,W
+2022,II,Cordylus tropidosternum,Reptilia,Sauria,Cordylidae,Cordylus,US,CD,,,6250,live,Number of specimens,T,W
+2022,II,Crocodylus johnstoni,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IQ,EG,,20,,live,,T,C
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IN,IT,ZA,16,,leather products (small),Number of specimens,T,W
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IN,IT,ZM,12,,leather products (small),Number of specimens,T,W
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IN,IT,ZW,6,,leather products (small),Number of specimens,T,R
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IN,IT,ZW,5,,leather products (small),Number of specimens,T,W
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,IN,SG,ZM,2,,leather products (small),Number of specimens,T,W
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,FR,ZW,1,,leather products (small),Number of specimens,T,R
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,SG,ZM,49,,leather products (small),Number of specimens,T,R
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,SG,ZW,23,,leather products (small),Number of specimens,T,C
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,SG,ZW,13,,leather products (small),Number of specimens,T,R
+2022,II,Crocodylus niloticus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,SG,ZW,1,,leather products (small),Number of specimens,,R
+2022,II,Crocodylus novaeguineae,Reptilia,Crocodylia,Crocodylidae,Crocodylus,PA,JP,PG,38,,leather products (small),,T,W
+2022,II,Crocodylus porosus,Reptilia,Crocodylia,Crocodylidae,Crocodylus,MO,SG,ID,11,,leather products (small),Number of specimens,T,C
+2022,II,Tursiops truncatus,Mammalia,Cetacea,Delphinidae,Tursiops,XX,PA,,,13,derivatives,,S,W
+2022,II,Ameerega trivittata,Amphibia,Anura,Dendrobatidae,Ameerega,US,CO,,,77,specimens,,S,W
+2022,II,Andinobates minutus,Amphibia,Anura,Dendrobatidae,Andinobates,DE,PA,,,1,derivatives,,S,W
+2022,II,Andinobates opisthomelas,Amphibia,Anura,Dendrobatidae,Andinobates,US,CO,,,19,specimens,,S,W
+2022,II,Dendrobates truncatus,Amphibia,Anura,Dendrobatidae,Dendrobates,US,CO,,,8,specimens,,T,W
+2022,II,Oophaga histrionica,Amphibia,Anura,Dendrobatidae,Oophaga,GB,CO,,,38,live,,T,C
+2022,II,Oophaga lehmanni,Amphibia,Anura,Dendrobatidae,Oophaga,GB,CO,,,7,live,,T,C
+2022,II,Oophaga pumilio,Amphibia,Anura,Dendrobatidae,Oophaga,XX,PA,,,10,derivatives,,S,C
+2022,II,Oophaga pumilio,Amphibia,Anura,Dendrobatidae,Oophaga,XX,PA,,,160,derivatives,,S,W
+2022,II,Oophaga vicentei,Amphibia,Anura,Dendrobatidae,Oophaga,XX,PA,,,15,derivatives,,S,C
+2022,II,Oophaga vicentei,Amphibia,Anura,Dendrobatidae,Oophaga,XX,PA,,,65,derivatives,,S,W
+2022,II,Phyllobates bicolor,Amphibia,Anura,Dendrobatidae,Phyllobates,GB,CO,,,10,live,,T,C
+2022,II,Duncanopsammia axifuga,Anthozoa,Scleractinia,Dendrophylliidae,Duncanopsammia,PA,US,AU,5,,live,,T,W
+2022,II,Lonchura oryzivora,Aves,Passeriformes,Estrildidae,Lonchura,PA,CU,,1250,,live,,T,C
+2022,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,IQ,CZ,,10,,live,,B,C
+2022,II,Falco cherrug,Aves,Falconiformes,Falconidae,Falco,IQ,DE,,7,,live,,B,C
+2022,II,Colpophyllia natans,Anthozoa,Scleractinia,Faviidae,Colpophyllia,US,PA,,,60,raw corals,,S,W
+2022,II,Diploria labyrinthiformis,Anthozoa,Scleractinia,Faviidae,Diploria,XX,PA,,,20,derivatives,,S,W
+2022,II,Favia fragum,Anthozoa,Scleractinia,Faviidae,Favia,XX,PA,,,10,derivatives,,S,W
+2022,II,Montastrea cavernosa,Anthozoa,Scleractinia,Faviidae,Montastrea,XX,PA,,,10,derivatives,,S,W
+2022,II,Montastrea faveolata,Anthozoa,Scleractinia,Faviidae,Montastrea,US,PA,,,60,raw corals,,S,W
+2022,II,Montastrea franksi,Anthozoa,Scleractinia,Faviidae,Montastrea,XX,PA,,,140,derivatives,,S,W
+2022,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,FI,ZA,,1,,trophies,Number of specimens,H,C
+2022,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IQ,CZ,,3,,live,,T,C
+2022,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IQ,EG,,8,,live,,Z,C
+2022,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,IQ,ZA,,8,,live,,Z,C
+2022,II,Panthera leo,Mammalia,Carnivora,Felidae,Panthera,NL,ME,,,1,live,Number of specimens,L,I
+2022,II,Galago demidoff,Mammalia,Primates,Galagidae,Galago,BE,CD,,,1,specimens,kg,S,W
+2022,II,Galago senegalensis,Mammalia,Primates,Galagidae,Galago,IQ,LB,,10,,live,,T,C
+2022,II,Otolemur crassicaudatus,Mammalia,Primates,Galagidae,Otolemur,KW,CD,,,50,live,Number of specimens,T,W
+2022,II,Otolemur crassicaudatus,Mammalia,Primates,Galagidae,Otolemur,TH,CD,,,30,live,Number of specimens,T,W
+2022,II,Giraffa camelopardalis,Mammalia,Artiodactyla,Giraffidae,Giraffa,IQ,ZA,,20,,live,,Z,C
+2022,II,Balearica regulorum,Aves,Gruiformes,Gruidae,Balearica,BD,CD,,,40,live,Number of specimens,T,W
+2022,II,Balearica regulorum,Aves,Gruiformes,Gruidae,Balearica,KW,CD,,,32,live,Number of specimens,T,W
+2022,II,Agalychnis callidryas,Amphibia,Anura,Hylidae,Agalychnis,DE,PA,,,10,derivatives,,S,W
+2022,II,Agalychnis callidryas,Amphibia,Anura,Hylidae,Agalychnis,XX,PA,,,96,derivatives,,S,W
+2022,II,Iguana iguana,Reptilia,Sauria,Iguanidae,Iguana,PA,SV,,40,,live,,T,C
+2022,II,Dalbergia retusa,,Fabales,Leguminosae,Dalbergia,CN,PA,,,1596,logs,m3,T,W
+2022,II,Dalbergia retusa,,Fabales,Leguminosae,Dalbergia,ES,PA,,,4,logs,m3,T,W
+2022,II,Dalbergia retusa,,Fabales,Leguminosae,Dalbergia,US,PA,,,4,derivatives,,S,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,AE,CD,,,1490.383,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,BE,CD,,,360.166,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,BE,CD,,,2740.343,sawn wood,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,CN,CD,,,403.827,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,ES,CD,,,67.075,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,KW,CD,,,57.571,sawn wood,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,LB,CD,,,20.457,sawn wood,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,MY,CD,,,22.187,sawn wood,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,PT,CD,,,127.628,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,TH,CD,,,21.206,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,TR,CD,,,203.538,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,TW,CD,,,1433.423,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,US,CD,,,30.364,sawn wood,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,VN,CD,,,10447.199,logs,m3,T,W
+2022,II,Pericopsis elata,,Fabales,Leguminosae,Pericopsis,ZA,CD,,,41.34,sawn wood,m3,T,W
+2022,II,Senna meridionalis,,Fabales,Leguminosae,Senna,IQ,AE,,10,,live,,T,A
+2022,II,Perodicticus potto,Mammalia,Primates,Lorisidae,Perodicticus,CN,CD,,,4,skins,Number of specimens,E,W
+2022,II,Perodicticus potto,Mammalia,Primates,Lorisidae,Perodicticus,TH,CD,,,30,live,Number of specimens,T,W
+2022,II,Dendrolagus inustus,Mammalia,Diprotodontia,Macropodidae,Dendrolagus,IQ,ZA,,40,,live,,Z,C
+2022,II,Millepora alcicornis,Hydrozoa,Milleporina,Milleporidae,Millepora,XX,PA,,,10,derivatives,,S,W
+2022,II,Acanthastrea lordhowensis,Anthozoa,Scleractinia,Mussidae,Acanthastrea,PA,US,AU,10,,live,,T,W
+2022,II,Blastomussa wellsi,Anthozoa,Scleractinia,Mussidae,Blastomussa,PA,US,ID,3,,live,,T,W
+2022,II,Scolymia australis,Anthozoa,Scleractinia,Mussidae,Scolymia,PA,US,AU,10,,live,,T,W
+2022,II,Scolymia wellsii,Anthozoa,Scleractinia,Mussidae,Scolymia,XX,PA,,,10,derivatives,,S,W
+2022,II,Symphyllia wilsoni,Anthozoa,Scleractinia,Mussidae,Symphyllia,PA,US,AU,5,,live,,T,W
+2022,II,Nautilus pompilius,Cephalopoda,Nautilida,Nautilidae,Nautilus,ME,FR,XX,4,,carvings,Number of specimens,T,O
+2022,II,Aspasia principissa,,Orchidales,Orchidaceae,Aspasia,XX,PA,,,25,derivatives,,S,W
+2022,II,Cattleya hybrid,,Orchidales,Orchidaceae,Cattleya,PA,TH,,480,,live,,P,A
+2022,II,Caularthron bilamellatum,,Orchidales,Orchidaceae,Caularthron,XX,PA,,,25,derivatives,,S,W
+2022,II,Dendrobium fimbriatum,,Orchidales,Orchidaceae,Dendrobium,PA,FR,KR,7,,cosmetics,ml,T,A
+2022,II,Dendrobium fimbriatum,,Orchidales,Orchidaceae,Dendrobium,PA,FR,TH,533,,cosmetics,ml,T,A
+2022,II,Dendrobium hybrid,,Orchidales,Orchidaceae,Dendrobium,PA,TH,,680,,live,,P,A
+2022,II,Dimerandra emarginata,,Orchidales,Orchidaceae,Dimerandra,XX,PA,,,25,derivatives,,S,W
+2022,II,Epidendrum nocturnum,,Orchidales,Orchidaceae,Epidendrum,XX,PA,,,25,derivatives,,S,W
+2022,II,Gastrodia elata,,Orchidales,Orchidaceae,Gastrodia,PA,FR,KR,785.2,,cosmetics,ml,T,A
+2022,II,Orchidaceae spp.,,Orchidales,Orchidaceae,,XX,PA,,,25,derivatives,,S,W
+2022,II,Phalaenopsis spp.,,Orchidales,Orchidaceae,Phalaenopsis,PA,CR,,27500,,live,,T,A
+2022,II,Phalaenopsis spp.,,Orchidales,Orchidaceae,Phalaenopsis,PA,TW,,7700,,live,,T,A
+2022,II,Phalaenopsis amabilis,,Orchidales,Orchidaceae,Phalaenopsis,PA,CR,,9600,,live,,T,A
+2022,II,Phalaenopsis amabilis,,Orchidales,Orchidaceae,Phalaenopsis,PA,FR,,366.5,,cosmetics,ml,T,A
+2022,II,Zeuxine bougainvilleana,,Orchidales,Orchidaceae,Zeuxine,IQ,EG,,100,,live,,T,A
+2022,II,Phoenicopterus roseus,Aves,Ciconiiformes,Phoenicopteridae,Phoenicopterus,LB,IQ,,,5,live,,T,C
+2022,II,Madracis decactis,Anthozoa,Scleractinia,Pocilloporidae,Madracis,XX,PA,,,10,derivatives,,S,W
+2022,II,Pocillopora spp.,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora,XX,PA,,,73,raw corals,,S,W
+2022,II,Pocillopora spp.,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora,XX,PA,,,274,derivatives,,S,W
+2022,II,Pocillopora damicornis,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora,XX,PA,,,186,raw corals,,S,W
+2022,II,Pocillopora damicornis,Anthozoa,Scleractinia,Pocilloporidae,Pocillopora,XX,PA,,,20,derivatives,,S,W
+2022,II,Seriatopora hystrix,Anthozoa,Scleractinia,Pocilloporidae,Seriatopora,ME,FR,SB,7,,raw corals,Number of specimens,T,W
+2022,II,Goniopora spp.,Anthozoa,Scleractinia,Poritidae,Goniopora,PA,US,ID,4,,live,,T,W
+2022,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,US,PA,,,60,raw corals,,S,W
+2022,II,Porites astreoides,Anthozoa,Scleractinia,Poritidae,Porites,XX,PA,,,100,derivatives,,S,W
+2022,II,Porites branneri,Anthozoa,Scleractinia,Poritidae,Porites,XX,PA,,,10,derivatives,,S,W
+2022,II,Porites divaricata,Anthozoa,Scleractinia,Poritidae,Porites,XX,PA,,,20,derivatives,,S,W
+2022,II,Porites lobata,Anthozoa,Scleractinia,Poritidae,Porites,XX,PA,,,20,derivatives,,S,W
+2022,II,Porites porites,Anthozoa,Scleractinia,Poritidae,Porites,XX,PA,,,210,derivatives,,S,W
+2022,II,Agapornis fischeri,Aves,Psittaciformes,Psittacidae,Agapornis,PA,CU,,1400,,live,,T,C
+2022,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,IT,PA,,,1,live,,P,W
+2022,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,NI,PA,,,1,live,,P,W
+2022,II,Amazona ochrocephala,Aves,Psittaciformes,Psittacidae,Amazona,PA,CW,,2,,live,,T,C
+2022,II,Ara ararauna,Aves,Psittaciformes,Psittacidae,Ara,IQ,GR,,1,,live,,P,C
+2022,II,Aratinga cactorum,Aves,Psittaciformes,Psittacidae,Aratinga,IQ,EG,,100,,live,,T,C
+2022,II,Aratinga pertinax,Aves,Psittaciformes,Psittacidae,Aratinga,PA,CW,,34,,live,,T,C
+2022,II,Aratinga solstitialis,Aves,Psittaciformes,Psittacidae,Aratinga,PA,CW,,10,,live,,T,C
+2022,II,Aratinga wagleri,Aves,Psittaciformes,Psittacidae,Aratinga,PA,CW,,10,,live,,T,C
+2022,II,Brotogeris jugularis,Aves,Psittaciformes,Psittacidae,Brotogeris,US,PA,,,2,live,,P,W
+2022,II,Brotogeris pyrrhoptera,Aves,Psittaciformes,Psittacidae,Brotogeris,PA,AT,,2,,live,,T,C
+2022,II,Forpus coelestis,Aves,Psittaciformes,Psittacidae,Forpus,PA,CU,,50,,live,,T,C
+2022,II,Neophema splendida,Aves,Psittaciformes,Psittacidae,Neophema,PA,CU,,220,,live,,T,C
+2022,II,Neopsephotus bourkii,Aves,Psittaciformes,Psittacidae,Neopsephotus,PA,CU,,300,,live,,T,C
+2022,II,Pionopsitta pyrilia,Aves,Psittaciformes,Psittacidae,Pionopsitta,PA,CW,,4,,live,,T,C
+2022,II,Pionus fuscus,Aves,Psittaciformes,Psittacidae,Pionus,PA,CW,,4,,live,,T,C
+2022,II,Pionus menstruus,Aves,Psittaciformes,Psittacidae,Pionus,IT,PA,,,1,live,,P,W
+2022,II,Pionus sordidus,Aves,Psittaciformes,Psittacidae,Pionus,PA,AT,,2,,live,,T,C
+2022,II,Pionus sordidus,Aves,Psittaciformes,Psittacidae,Pionus,PA,CW,,4,,live,,T,C
+2022,II,Platycercus eximius,Aves,Psittaciformes,Psittacidae,Platycercus,PA,CU,,360,,live,,T,C
+2022,II,Poicephalus gulielmi,Aves,Psittaciformes,Psittacidae,Poicephalus,IQ,CD,,,100,live,Number of specimens,T,W
+2022,II,Poicephalus gulielmi,Aves,Psittaciformes,Psittacidae,Poicephalus,TH,CD,,,210,live,Number of specimens,T,W
+2022,II,Poicephalus meyeri,Aves,Psittaciformes,Psittacidae,Poicephalus,SG,CD,,,150,live,Number of specimens,T,W
+2022,II,Poicephalus meyeri,Aves,Psittaciformes,Psittacidae,Poicephalus,TH,CD,,,500,live,Number of specimens,T,W
+2022,II,Psephotus haematonotus,Aves,Psittaciformes,Psittacidae,Psephotus,PA,CU,,700,,live,,T,C
+2022,II,Pyrrhura hoematotis,Aves,Psittaciformes,Psittacidae,Pyrrhura,PA,CW,,12,,live,,T,C
+2022,II,Pyrrhura picta,Aves,Psittaciformes,Psittacidae,Pyrrhura,PA,CW,,12,,live,,T,C
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,IT,PA,ID,,6,leather products (small),,T,W
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,IT,PA,VN,,3,leather products (small),,T,C
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PA,FR,ID,1,,leather products (small),,T,W
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PA,FR,VN,1,,leather products (small),,T,C
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PA,IT,ID,3,,leather products (small),,T,W
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PA,IT,MY,1,,leather products (small),,T,W
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,PA,IT,VN,1,,leather products (small),,T,C
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,US,CO,CO,,69,leather products (small),,T,C
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,US,PA,ID,,1,leather products (small),,T,W
+2022,II,Malayopython reticulatus,Reptilia,Serpentes,Pythonidae,Malayopython,US,PA,VN,,3,leather products (small),,T,C
+2022,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,FI,SG,CN,1,,skin pieces,Number of specimens,T,C
+2022,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,PA,CH,VN,1,,leather products (small),,T,C
+2022,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,US,CO,CO,,49,leather products (small),,T,C
+2022,II,Python bivittatus,Reptilia,Serpentes,Pythonidae,Python,US,PA,VN,,3,leather products (small),,T,C
+2022,II,Python sebae,Reptilia,Serpentes,Pythonidae,Python,CZ,CD,,,9,specimens,kg,S,W
+2022,II,Siderastrea radians,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,XX,PA,,,10,derivatives,,S,W
+2022,II,Siderastrea siderea,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,US,PA,,,60,raw corals,,S,W
+2022,II,Siderastrea siderea,Anthozoa,Scleractinia,Siderastreidae,Siderastrea,XX,PA,,,130,derivatives,,S,W
+2022,II,Salvator merianae,Reptilia,Sauria,Teiidae,Salvator,IN,CH,AR,4,,leather products (small),Number of specimens,T,W
+2022,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,AE,CO,,,200,live,,T,C
+2022,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,CL,CO,,,300,live,,T,C
+2022,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,PA,SV,,8,,live,,T,C
+2022,II,Chelonoidis carbonarius,Reptilia,Testudines,Testudinidae,Chelonoidis,US,CO,,,180,live,,T,C
+2022,II,Kinixys spp.,Reptilia,Testudines,Testudinidae,Kinixys,CZ,CD,,,10,specimens,kg,S,W
+2022,II,Kinixys erosa,Reptilia,Testudines,Testudinidae,Kinixys,KR,CD,,,10,live,Number of specimens,T,W
+2022,II,Kinixys erosa,Reptilia,Testudines,Testudinidae,Kinixys,US,CD,,,145,live,Number of specimens,T,W
+2022,II,Kinixys spekii,Reptilia,Testudines,Testudinidae,Kinixys,US,CD,,,45,live,Number of specimens,T,W
+2022,II,Stigmochelys pardalis,Reptilia,Testudines,Testudinidae,Stigmochelys,PA,SV,,10,,live,,T,C
+2022,II,Testudo hermanni,Reptilia,Testudines,Testudinidae,Testudo,PA,DE,,2,,live,,P,C
+2022,II,Testudo horsfieldii,Reptilia,Testudines,Testudinidae,Testudo,ME,RU,,1,,live,Number of specimens,P,U
+2022,II,Brachypelma auratum,Arachnida,Araneae,Theraphosidae,Brachypelma,PA,MX,,10,,live,,T,C
+2022,II,Brachypelma boehmei,Arachnida,Araneae,Theraphosidae,Brachypelma,PA,MX,,25,,live,,T,C
+2022,II,Brachypelma smithi,Arachnida,Araneae,Theraphosidae,Brachypelma,PA,MX,,10,,live,,T,C
+2022,II,Tliltocatl kahlenbergi,Arachnida,Araneae,Theraphosidae,Tliltocatl,PA,MX,,10,,live,,T,C
+2022,II,Tliltocatl verdezi,Arachnida,Araneae,Theraphosidae,Tliltocatl,PA,MX,,10,,live,,T,C
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,AE,LA,,,0.02,oil,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,CN,LA,,,10000,chips,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,FR,LA,,,21.625,oil,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,KR,LA,,,520,chips,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,MY,LA,,,9850,chips,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,MY,LA,,,2760,logs,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,SA,LA,,,2700,chips,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,SG,LA,,,120,chips,kg,S,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,SG,LA,,,4,leaves,kg,S,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,TH,LA,,,3700,chips,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,TH,LA,,,2370,powder,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,US,LA,,,2,chips,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,VN,LA,,,74650,chips,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,VN,LA,,,420000,logs,kg,T,A
+2022,II,Aquilaria crassna,,Myrtales,Thymelaeaceae,Aquilaria,XX,LA,,,5,oil,l,T,A
+2022,II,Aquilaria malaccensis,,Myrtales,Thymelaeaceae,Aquilaria,SA,LA,,,1000,chips,kg,T,A
+2022,II,Amyda cartilaginea,Reptilia,Testudines,Trionychidae,Amyda,XX,LA,TH,,1200,live,Number of specimens,T,C
+2022,II,Cycloderma aubryi,Reptilia,Testudines,Trionychidae,Cycloderma,CZ,CD,,,5,specimens,kg,S,W
+2022,II,Cycloderma aubryi,Reptilia,Testudines,Trionychidae,Cycloderma,DE,CD,,,12,live,Number of specimens,T,W
+2022,II,Cycloderma aubryi,Reptilia,Testudines,Trionychidae,Cycloderma,HK,CD,,,30,live,Number of specimens,T,W
+2022,II,Cycloderma aubryi,Reptilia,Testudines,Trionychidae,Cycloderma,JP,CD,,,12,live,Number of specimens,T,W
+2022,II,Cycloderma aubryi,Reptilia,Testudines,Trionychidae,Cycloderma,US,CD,,,10,live,Number of specimens,T,W
+2022,II,Florisuga mellivora,Aves,Apodiformes,Trochilidae,Florisuga,XX,PA,,,130,derivatives,,S,W
+2022,II,Ursus arctos,Mammalia,Carnivora,Ursidae,Ursus,LY,IQ,,,2,live,,P,C
+2022,II,Varanus spp.,Reptilia,Sauria,Varanidae,Varanus,CZ,CD,,,8,specimens,kg,S,W
+2022,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,DE,CD,,,40,live,Number of specimens,T,W
+2022,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,ID,CD,,,50,live,Number of specimens,T,W
+2022,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,JP,CD,,,55,live,Number of specimens,T,W
+2022,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,KR,CD,,,50,live,Number of specimens,T,W
+2022,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,MY,CD,,,130,live,Number of specimens,T,W
+2022,II,Varanus albigularis,Reptilia,Sauria,Varanidae,Varanus,US,CD,,,405,live,Number of specimens,T,W
+2022,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,US,CO,CO,,200,leather products (small),,T,W
+2022,II,Varanus salvator,Reptilia,Sauria,Varanidae,Varanus,US,PA,ID,,4,leather products (small),,T,W
+2022,II,Chiroptera spp.,Mammalia,Chiroptera,,,BE,CD,,,4054,specimens,kg,S,W
+2022,II,Scleractinia spp.,Anthozoa,Scleractinia,,,PA,US,ID,2,,live,,T,W
+2022,III,Odocoileus virginianus,Mammalia,Artiodactyla,Cervidae,Odocoileus,ES,PA,,,2,skin pieces,,P,W
+2022,III,Dipteryx panamensis,,Fabales,Leguminosae,Dipteryx,CN,PA,,,46,logs,m3,T,W
+2022,III,Dipteryx panamensis,,Fabales,Leguminosae,Dipteryx,CN,PA,,,9,timber,,T,W
+2022,III,Dipteryx panamensis,,Fabales,Leguminosae,Dipteryx,US,PA,,,151,logs,m3,T,W
+2022,III,Dipteryx panamensis,,Fabales,Leguminosae,Dipteryx,VN,PA,,,220,logs,m3,T,A
+2022,III,Pavo cristatus,Aves,Galliformes,Phasianidae,Pavo,US,LA,,,7.3,feathers,kg,T,C
+2022,III,Potamotrygon motoro,Elasmobranchii,Myliobatiformes,Potamotrygonidae,Potamotrygon,JP,CO,,,67,live,,T,W
+2022,III,Potamotrygon motoro,Elasmobranchii,Myliobatiformes,Potamotrygonidae,Potamotrygon,US,CO,,,14,live,,T,W
+2022,III,Potamotrygon schroederi,Elasmobranchii,Myliobatiformes,Potamotrygonidae,Potamotrygon,ID,CO,,,16,live,,T,W
+2022,III,Potamotrygon schroederi,Elasmobranchii,Myliobatiformes,Potamotrygonidae,Potamotrygon,JP,CO,,,10,live,,T,W
+2022,III,Nasua narica,Mammalia,Carnivora,Procyonidae,Nasua,XX,PA,,,45,derivatives,,S,W
