@@ -8,7 +8,7 @@ import seaborn
 import sklearn
 import skimage
 
-from my_file import foo
+from data_cleaning import foo
 
 EXPECTED_MAJOR = 3
 EXPECTED_MINOR = 9
