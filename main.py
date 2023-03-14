@@ -12,7 +12,14 @@ def main():
     print(top5_biggest_importers)
     biggest_exporter_app1 = df.Exporter.value_counts().nlargest(1)
     print(biggest_exporter_app1)
-
+    # filter for Appendix I species (App. == 1)
+    app_1_species = df[df['App.'] == 1]
+    # group by importer and count the number of occurrences
+    grouped = app_1_species.groupby('Importer').size().reset_index(name='count')
+    # sort by count in descending order
+    sorted_grouped = grouped.sort_values('count', ascending=False)
+    # get the importer with the highest count
+    top_importer = sorted_grouped.iloc[0]['Importer']
     operate_data('comptab_2023-03-01 23_24_comma_separated.csv')
     operate_data('international_trade.csv')
 
