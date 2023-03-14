@@ -34,3 +34,21 @@ class MachineLearning:
                       metrics=['accuracy'])
         model.fit(features_train, labels_train, epochs=1)
         model.evaluate(features_test,  labels_test, verbose=2)
+
+
+#Decision tree model
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.metrics import accuracy_score
+
+class DecisionTreeClassifier:
+    def __init__(self, data: pd.DataFrame):
+        self.data = data
+        self.features = data[['App.', 'Taxon', 'Importer', 'Term', 'Purpose', 'Source']]
+        self.labels = data['target']
+
+    def decisiontree_ml(self):
+        model = DecisionTreeClassifier()
+        model.fit(self.features, self.labels)
+        predictions = model.predict(self.features)
+        accuracy = accuracy_score(self.labels, predictions)
+        return accuracy

@@ -28,3 +28,4 @@ class DataClean:
         print(wildlife.dtypes)
 
         return wildlife
+        

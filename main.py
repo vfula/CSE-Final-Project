@@ -21,8 +21,8 @@ def main():
     clean = DataClean('international_trade.csv')
     clean_df = clean.clean_ml()
     ml_model = MachineLearning(clean_df)
-
-
+    dt = DecisionTree(clean_df)
+    accuracy = dt.decisiontree_ml()
 
 
 if __name__ == '__main__':
