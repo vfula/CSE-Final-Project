@@ -1,28 +1,28 @@
 import sys
 
-import geopandas
-import numpy
-import pandas
+import geopandas as gpd
+import numpy as np
+import pandas as pd
 import requests
 import seaborn
 import sklearn
 import skimage
+import tensorflow as tf
+from tensorflow import keras
+# Make numpy values easier to read.
+np.set_printoptions(precision=3, suppress=True)
+from keras import layers
 
-from data_cleaning import foo
-
-EXPECTED_MAJOR = 3
-EXPECTED_MINOR = 9
+from data_cleaning import DataClean
+from machine_learning import MachineLearning
 
 
 def main():
-    print('Main runs');
-    foo();
+    clean = DataClean('international_trade.csv')
+    clean_df = clean.clean_ml()
+    ml_model = MachineLearning(clean_df)
 
-    version = sys.version_info
-    if version.major != EXPECTED_MAJOR or version.minor != EXPECTED_MINOR:
-        print('⚠️  Warning! Detected Python version '
-              f'{version.major}.{version.minor} but expected version '
-              f'{EXPECTED_MAJOR}.{EXPECTED_MINOR}')
+
 
 
 if __name__ == '__main__':
