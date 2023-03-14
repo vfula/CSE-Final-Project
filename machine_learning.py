@@ -16,36 +16,21 @@ from keras import layers
 class MachineLearning:
     def __init__(self, data: pd.DataFrame):
         self._data = data
+        self._features = data[['App.', 'Taxon', 'Importer', 'Term', 'Purpose', 'Source']]
+        self._labels = data['target']
 
-    def wildlife_ml(self):
-        train, val, test = np.split(self._data.sample(frac=1), [int(0.8*len(self._data)), int(0.9*len(self._data))])
-        print(train)
+    def tensorflow_ml(self):
+        features_train, features_test, labels_train, labels_test = \
+            train_test_split(self._features, self._labels, test_size=0.2)
+        model = tf.keras.Sequential([
+                tf.keras.layers.Dense(1000, activation='relu'),
+                tf.keras.layers.Dense(100, activation='relu'),
+                tf.keras.layers.Dense(10, activation='relu'),
+                tf.keras.layers.Dense(1)
+        ])
 
-        batch_size = 5
-        train_ds = tf.convert_to_tensor(train)
-
-        [(train_features, label_batch)] = train_ds.take(1)
-        print('Every feature:', list(train_features.keys()))
-        print('A batch of exporters:', train_features['Exporter'])
-        print('A batch of targets:', label_batch )
-    
-    def get_category_encoding_layer(name, dataset, dtype, max_tokens=None):
-        # Create a layer that turns strings into integer indices.
-        if dtype == 'string':
-            index = layers.StringLookup(max_tokens=max_tokens)
-        # Otherwise, create a layer that turns integer values into integer indices.
-        else:
-            index = layers.IntegerLookup(max_tokens=max_tokens)
-
-        # Prepare a `tf.data.Dataset` that only yields the feature.
-        feature_ds = dataset.map(lambda x, y: x[name])
-
-        # Learn the set of possible values and assign them a fixed integer index.
-        index.adapt(feature_ds)
-
-        # Encode the integer indices.
-        encoder = layers.CategoryEncoding(num_tokens=index.vocabulary_size())
-
-        # Apply multi-hot encoding to the indices. The lambda function captures the
-        # layer, so you can use them, or include them in the Keras Functional model later.
-        return lambda feature: encoder(index(feature))
+        model.compile(optimizer='adam',
+                      loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
+                      metrics=['accuracy'])
+        model.fit(features_train, labels_train, epochs=1)
+        model.evaluate(features_test,  labels_test, verbose=2)
